@@ -1,1 +1,3 @@
-# HelloGit
+#Le projet HelloGit
+
+## Devloppe par C#
